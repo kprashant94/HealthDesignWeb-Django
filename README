@@ -1,0 +1,10 @@
+Prerquesite :
+1. Django – 1.11.1
+2. Python
+
+How to build :
+Run following commands on terminal.
+1. cd HealthDesignWeb-Django
+2. python manage.py runserver
+
+Then open 127.0.0.1:8000 in browser.
